@@ -2,11 +2,11 @@
 
 A robust payout processing service built using Test-Driven Development (TDD) methodology, implementing SOLID principles and clean architecture patterns.
 
+**Note:** the project is a part of VibeTDD experiment, see the [blog post](https://blog.vibetdd.dev/posts/2025-07-29-experiment-phase2-payouts-service-ai) for details.
+
 ## 🎯 Overview
 
 This service processes payout requests with comprehensive validation and secure in-memory storage. It demonstrates enterprise-level software development practices including separation of concerns, dependency injection, and comprehensive test coverage.
-
-**Note:** the project is a part of VibeTDD experiment, mostly driving by a human, implemented by AI.
  
 ## 📋 Features
 
